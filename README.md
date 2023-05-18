@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Amdjed</h1>
 <h3 align="center">Final year student standing between ML & Cybersec, and everything that has to improve codes and lives.</h3>
 
-- 🌱 I’m currently learning **Pytorch & NLP.**
+- 🌱 I’m currently learning **AI models optimization for realtime applications.**
+ 
+- 💼 Check my [portfolio](https://amdjed-bensalah.netlify.app/)
 
-- 👯 I’m looking to collaborate on **NLP & Machine Learning Projects.**
+- 👯 I’m looking to collaborate on **Deep learning projects & AI competitions.**
 
-- 🤝 I’m regularly playing CTF with [OctaC0re](https://ctftime.org/team/141485)
+- 🤝 I’m regularly playing CTF competitions with [OctaC0re](https://ctftime.org/team/141485)
 
-- 👨‍💻 All of my projects are available at [https://github.com/amdjedbens?tab=repositories](https://github.com/amdjedbens?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/amdjedbens?tab=repositories)
 
 - 💬 Ask me about **Data, Python & ML algorithms.**
 
-- 📫 How to reach me **a.bensalah@esi-sba.dz**
+- 📫 How to reach me: **a.bensalah@esi-sba.dz**
 
 - ⚡ Fun fact **I rip boot privileges from old computers with my Linux USB.**
 
