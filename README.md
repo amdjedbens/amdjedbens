@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amdjed</h1>
-<h3 align="center">Final year student standing between ML & Cybersec, and everything that has to improve codes and lives.</h3>
+<h3 align="center">A final year student doing ML, MLOps and everything that has to improve codes and lives.</h3>
 
 - 🌱 I’m currently learning **AI models optimization for realtime applications.**
  
