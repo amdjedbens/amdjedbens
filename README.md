@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI models optimization for realtime applications.**
  
-- 💼 Check my [portfolio](https://amdjed-bensalah.netlify.app/)
+- 💼 Check my [portfolio](https://amdjedbens.github.io/)
 
 - 👯 I’m looking to collaborate on **Deep learning projects & AI competitions.**
 
