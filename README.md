@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amdjed</h1>
-<h3 align="center">A final year student doing ML, MLOps and everything that has to improve codes and lives.</h3>
+<h3 align="center">An egineer doing ML, MLOps and everything that has to improve codes and lives.</h3>
 
 - 🌱 I’m currently learning **AI models optimization for realtime applications.**
  
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data, Python & ML algorithms.**
 
-- 📫 How to reach me: **a.bensalah@esi-sba.dz**
+- 📫 How to reach me: **amdjedbens01@gmail.com**
 
 - ⚡ Fun fact **I rip boot privileges from old computers with my Linux USB.**
 
