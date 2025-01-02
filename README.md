@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amdjed</h1>
 <h3 align="center">An engineer doing ML, MLOps and everything that has to improve codes and lives.</h3>
 
-- 🌱 I’m currently learning **AI models optimization for realtime applications.**
- 
-- 💼 Check my [portfolio](https://amdjedbens.github.io/)
+- 🌱 I’m currently learning more about **LLMs, RAGs and getting deeper into Agentic-AI.**
 
 - 👯 I’m looking to collaborate on **Deep learning projects & AI competitions.**
 
